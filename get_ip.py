@@ -1,5 +1,11 @@
 
 
+#
+# This version is in phase beta 
+#
+# @Antonio Navarro
+#
+
 # Python 3 o superior
 import socket
               
